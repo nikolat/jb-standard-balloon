@@ -1,0 +1,4 @@
+charset,UTF-8
+type,balloon
+name,雀卓用透明バルーン
+directory,jb-standard-balloon
