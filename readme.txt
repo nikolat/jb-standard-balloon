@@ -28,7 +28,7 @@
   著作者人格権はDonに帰属します
 
     すくりや
-      http://nikolat.herokuapp.com/
+      https://nikolat.github.io/
 
   ライセンスは「CC0 1.0 Universal」です。
 

@@ -2,7 +2,7 @@ charset,UTF-8
 type,balloon
 name,雀卓用透明バルーン
 craftman,Don
-craftmanurl,http://nikolat.herokuapp.com/
+craftmanurl,https://nikolat.github.io/
 homeurl,https://raw.githubusercontent.com/nikolat/jb-standard-balloon/main/
 id,jb-standard-balloon
 readme.charset,UTF-8
